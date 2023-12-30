@@ -1,0 +1,29 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://demo.thememattic.com/education-x-pro
+Data file = /home/touratne/public_html/thememattic.com/demo/education-x-pro/wp-content/themes/education-x-pro/demo-content/education-x.xml
+Widget file = /home/touratne/public_html/thememattic.com/demo/education-x-pro/wp-content/themes/education-x-pro/demo-content/education-x.wie
+Customizer file = /home/touratne/public_html/thememattic.com/demo/education-x-pro/wp-content/themes/education-x-pro/demo-content/education-x.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

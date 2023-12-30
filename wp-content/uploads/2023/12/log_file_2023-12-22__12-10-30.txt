@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/kitm/wordpress
+Data file = D:\SOFTWARES\xampp_laravel\htdocs\kitm\wordpress/wp-content/themes/education-x-pro-1.0.9/demo-content/education-x.xml
+Widget file = D:\SOFTWARES\xampp_laravel\htdocs\kitm\wordpress/wp-content/themes/education-x-pro-1.0.9/demo-content/education-x.wie
+Customizer file = D:\SOFTWARES\xampp_laravel\htdocs\kitm\wordpress/wp-content/themes/education-x-pro-1.0.9/demo-content/education-x.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

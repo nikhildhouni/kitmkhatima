@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Education Connect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-24 06:42+0000\n"
+"PO-Revision-Date: 2018-02-24 06:42+0000\n"
+"Last-Translator: admin <meissudeep@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/ec-settings.php:32
+msgid "Settings Admin"
+msgstr ""
+
+#: inc/ec-settings.php:33 inc/ec-settings.php:51
+msgid "Education Connect Settings"
+msgstr ""
+
+#: inc/ec-settings.php:76
+msgid "EC: Settings"
+msgstr ""
+
+#: inc/ec-settings.php:83
+msgid "Enable Course Post Type"
+msgstr ""
+
+#: inc/ec-settings.php:91
+msgid "Enable Event Post Type"
+msgstr ""
+
+#: inc/ec-settings.php:99
+msgid "Enable Team Post Type"
+msgstr ""
+
+#: inc/ec-settings.php:107
+msgid "Enable Testimonial Post Type"
+msgstr ""
+
+#: inc/ec-settings.php:146
+msgid "Please check the checkbox for the Post Types you need:"
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-testimonials.php:61
+#: inc/shortcodes/ec-shortcode-teams.php:157
+#: inc/shortcodes/ec-shortcode-events.php:143
+#: inc/shortcodes/ec-shortcode-courses.php:140
+msgid "Learn More"
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-teams.php:15
+msgid "Email: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-teams.php:31
+msgid "website: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-teams.php:122
+#: inc/template-parts/single-ec-teams.php:51
+msgid "Department "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-teams.php:131
+#: inc/template-parts/single-ec-teams.php:60
+msgid "Designation "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-events.php:15
+msgid "Date: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-events.php:30
+msgid "From: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-events.php:45
+msgid "To: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-events.php:60
+msgid "Location: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-events.php:134
+#: inc/template-parts/single-ec-events.php:45
+msgid "Posted In: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-courses.php:29
+msgid "Duration: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-courses.php:45
+msgid "Teacher: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-courses.php:60
+msgid "Price: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-courses.php:75
+msgid "No of Students: "
+msgstr ""
+
+#: inc/shortcodes/ec-shortcode-courses.php:112
+#: inc/template-parts/single-ec-courses.php:44
+msgid "Course "
+msgstr ""
+
+#: inc/post-types/ec-courses.php:10
+msgctxt "post type general name"
+msgid "Courses"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:11
+msgctxt "post type singular name"
+msgid "Course"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:12
+msgctxt "admin menu"
+msgid "EC Courses"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:13
+msgctxt "add new on admin bar"
+msgid "Course"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:14
+msgctxt "Course"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:15
+msgid "Add New Course"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:16
+msgid "New Course"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:17
+msgid "Edit Course"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:18
+msgid "View Course"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:19
+msgid "All Courses"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:20
+msgid "Search Courses"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:21
+msgid "Parent Courses:"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:22
+msgid "No Courses Found."
+msgstr ""
+
+#: inc/post-types/ec-courses.php:23
+msgid "No Courses Found in Trash."
+msgstr ""
+
+#: inc/post-types/ec-courses.php:29 inc/post-types/ec-events.php:29
+#: inc/post-types/ec-teams.php:29 inc/post-types/ec-testimonials.php:29
+msgid "Description."
+msgstr ""
+
+#: inc/post-types/ec-courses.php:50
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:51
+msgctxt "taxonomy singular name"
+msgid "Course Category"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:52
+msgid "Search Course Categories"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:53
+msgid "All Course Categories"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:54
+msgid "Parent Course Category"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:55
+msgid "Parent Course Category:"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:56
+msgid "Edit Course Category"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:57
+msgid "Update Course Category"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:58
+msgid "Add New Course Category"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:59
+msgid "New Course Category Name"
+msgstr ""
+
+#: inc/post-types/ec-courses.php:60
+msgid "Course Category"
+msgstr ""
+
+#: inc/post-types/ec-events.php:10
+msgctxt "post type general name"
+msgid "Events"
+msgstr ""
+
+#: inc/post-types/ec-events.php:11
+msgctxt "post type singular name"
+msgid "Event"
+msgstr ""
+
+#: inc/post-types/ec-events.php:12
+msgctxt "admin menu"
+msgid "EC Events"
+msgstr ""
+
+#: inc/post-types/ec-events.php:13
+msgctxt "add new on admin bar"
+msgid "Event"
+msgstr ""
+
+#: inc/post-types/ec-events.php:14
+msgctxt "Event"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/ec-events.php:15
+msgid "Add New Event"
+msgstr ""
+
+#: inc/post-types/ec-events.php:16
+msgid "New Event"
+msgstr ""
+
+#: inc/post-types/ec-events.php:17
+msgid "Edit Event"
+msgstr ""
+
+#: inc/post-types/ec-events.php:18
+msgid "View Event"
+msgstr ""
+
+#: inc/post-types/ec-events.php:19
+msgid "All Events"
+msgstr ""
+
+#: inc/post-types/ec-events.php:20
+msgid "Search Events"
+msgstr ""
+
+#: inc/post-types/ec-events.php:21
+msgid "Parent Events:"
+msgstr ""
+
+#: inc/post-types/ec-events.php:22
+msgid "No Events Found."
+msgstr ""
+
+#: inc/post-types/ec-events.php:23
+msgid "No Events Found in Trash."
+msgstr ""
+
+#: inc/post-types/ec-events.php:48
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: inc/post-types/ec-events.php:49
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr ""
+
+#: inc/post-types/ec-events.php:50
+msgid "Search Event Categories"
+msgstr ""
+
+#: inc/post-types/ec-events.php:51
+msgid "All Event Categories"
+msgstr ""
+
+#: inc/post-types/ec-events.php:52
+msgid "Parent Event Category"
+msgstr ""
+
+#: inc/post-types/ec-events.php:53
+msgid "Parent Event Category:"
+msgstr ""
+
+#: inc/post-types/ec-events.php:54
+msgid "Edit Event Category"
+msgstr ""
+
+#: inc/post-types/ec-events.php:55
+msgid "Update Event Category"
+msgstr ""
+
+#: inc/post-types/ec-events.php:56
+msgid "Add New Event Category"
+msgstr ""
+
+#: inc/post-types/ec-events.php:57
+msgid "New Event Category Name"
+msgstr ""
+
+#: inc/post-types/ec-events.php:58
+msgid "Event Category"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:10
+msgctxt "post type general name"
+msgid "Teams"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:11
+msgctxt "post type singular name"
+msgid "Team"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:12
+msgctxt "admin menu"
+msgid "EC Teams"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:13
+msgctxt "add new on admin bar"
+msgid "Team"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:14
+msgctxt "Team"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:15
+msgid "Add New Team"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:16
+msgid "New Team"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:17
+msgid "Edit Team"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:18
+msgid "View Team"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:19
+msgid "All Teams"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:20
+msgid "Search Teams"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:21
+msgid "Parent Teams:"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:22
+msgid "No Teams Found."
+msgstr ""
+
+#: inc/post-types/ec-teams.php:23
+msgid "No Teams Found in Trash."
+msgstr ""
+
+#: inc/post-types/ec-teams.php:48
+msgctxt "taxonomy general name"
+msgid "Departments"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:49
+msgctxt "taxonomy singular name"
+msgid "Department"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:50
+msgid "Search Departments"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:51
+msgid "All Departments"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:52
+msgid "Parent Department"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:53
+msgid "Parent Department:"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:54
+msgid "Edit Department"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:55
+msgid "Update Department"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:56
+msgid "Add New Department"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:57
+msgid "New Department Name"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:58
+msgid "Department"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:74
+msgctxt "taxonomy general name"
+msgid "Designations"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:75
+msgctxt "taxonomy singular name"
+msgid "Designation"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:76
+msgid "Search Designations"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:77
+msgid "All Designations"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:78
+msgid "Parent Designation"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:79
+msgid "Parent Designation:"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:80
+msgid "Edit Designation"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:81
+msgid "Update Designation"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:82
+msgid "Add New Designation"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:83
+msgid "New Designation Name"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:84
+msgid "Designation"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:100
+msgctxt "taxonomy general name"
+msgid "Team Categories"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:101
+msgctxt "taxonomy singular name"
+msgid "Team Category"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:102
+msgid "Search Team Categories"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:103
+msgid "All Team Categories"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:104
+msgid "Parent Team Category"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:105
+msgid "Parent Team Category:"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:106
+msgid "Edit Team Category"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:107
+msgid "Update Team Category"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:108
+msgid "Add New Team Category"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:109
+msgid "New Team Category Name"
+msgstr ""
+
+#: inc/post-types/ec-teams.php:110
+msgid "Team Category"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:10
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:11
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:12
+msgctxt "admin menu"
+msgid "EC Testimonials"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:13
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:14
+msgctxt "Testimonial"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:15
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:16
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:17
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:18
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:19
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:20
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:21
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:22
+msgid "No Testimonials Found."
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:23
+msgid "No Testimonials Found in Trash."
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:48
+msgctxt "taxonomy general name"
+msgid "Testimonial Categories"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:49
+msgctxt "taxonomy singular name"
+msgid "Testimonial Category"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:50
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:51
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:52
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:53
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:54
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:55
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:56
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:57
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: inc/post-types/ec-testimonials.php:58
+msgid "Testimonial Category"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:15
+msgid "Additional Team's Information"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:44
+msgid "Set as Teacher"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:46
+msgid "Please check team member is a teacher."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:48
+msgid "Email"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:50
+msgid "Please input the email id of the member."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:54
+msgid "Website"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:56
+msgid "Please input the personal website of this member."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-teams.php:63
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:15
+msgid "Assign Teacher"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:80
+msgid "Duration"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:81
+msgid "3 Month"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:82
+msgid "Please insert the designated duration for this course."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:86
+msgid "Price"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:87
+msgid "$3"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:88
+msgid "Please insert the price for this course."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:92
+msgid "No of students allocated"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:93
+msgid "200"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-courses.php:94
+msgid "Please insert the number of students for this course."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:15
+msgid "Additional Event's Information"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:32
+msgid "Date"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:38
+msgid "Time Span"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:40
+msgid "From"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:43
+msgid "To"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:45
+msgid "Please insert starting time and ending time."
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:49
+msgid "Location"
+msgstr ""
+
+#: inc/meta-boxes/ec-meta-events.php:52
+msgid "Please insert the designated location for the event."
+msgstr ""
+
+#. Name of the plugin
+msgid "Education Connect"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A plugin that creates custom post type named as Events, Courses, Team and "
+"Testimonial. Each of these post types has required minimal meta fields for "
+"educational sites. This addon is best to enhance features of educational "
+"themes as it is easy to use and highly secure."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/education-connect/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Thememattic"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thememattic.com/"
+msgstr ""
